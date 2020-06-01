@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+alert("Hello World");
+</script>
+<noscript>
+your browser doesn't support or has diabled javascript
+</noscript>
+</body>
+</html>
